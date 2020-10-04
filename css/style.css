@@ -1,0 +1,111 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+/*
+.icon1 {
+   margin-left: 53px;
+    margin-top: 15px;
+    color: white;
+    padding: 24px;
+}
+.fa{
+	background: red;
+	border: 1px solid red;
+	padding: 13px;
+	}
+.icon2 {
+   margin-left: 87px;
+    margin-top: -48px;
+    color: white;
+    padding: 24px;
+}
+.icon3 {
+   margin-left: 128px;
+    margin-top: -48px;
+    color: white;
+    padding: 24px;
+}
+.icon4 {
+   margin-left: 167px;
+    margin-top: -48px;
+    color: white;
+    padding: 24px;
+}
+
+*/
+body{
+	text-transform: capitalize;
+	background: url(../img/one.jpg);
+}
+
+
+form{
+	width: 395px;
+	height: 350px;
+	top: 50%;
+	left: 50%;
+	padding: 15px;
+	border: 2px solid transparent;
+	border-radius: 10px;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	box-shadow: 4px 5px 23px 0px;
+	background: whitesmoke;
+}
+input{
+padding: 15px;
+}
+.user{
+width: 365px;
+height: 9px;
+margin:auto;
+border: 1px solid #DDDfe2; 
+border-radius: 5px;
+margin-bottom: 10px;
+}
+::placeholder{
+color: gray;
+font-size: 16px;
+}
+.login{
+	font-size: 14px;
+	width: 100%;
+	font-weight: 600;
+	height: 42px;
+	border-radius: 5px;
+	border: none;
+	background: blue;
+	padding: 0;
+	margin-bottom: 15px;
+}
+.btn1{
+text-align: center;
+margin-bottom: 5px;
+
+    
+}
+.btn1 a{
+	text-decoration: none;
+	color: green;
+	font-size: 15px;
+}
+.btn2{
+	width: 200px;
+	height: 16px;
+	background: #42b72a;
+	margin:auto; 
+	border-radius: 5px;
+	padding: 15px;
+	text-align: center;
+	margin-top: 10px;
+
+}
+.btn2 a{
+	text-decoration: none;
+	color: green;
+	font-size: 18px;
+	margin-top: 10px;
+	text-align: center;
+	color: white;
+}
